@@ -1,6 +1,6 @@
 <?php
 
-namespace CL\SymfonyDoctrineSearchFunctionsBundle\Tests\Controller;
+namespace CL\CLSymfonyDoctrineSearchFunctionsBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace CL\SymfonyDoctrineSearchFunctionsBundle;
+namespace CL\CLSymfonyDoctrineSearchFunctionsBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

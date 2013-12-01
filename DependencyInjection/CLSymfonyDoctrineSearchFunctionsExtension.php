@@ -1,6 +1,6 @@
 <?php
 
-namespace CL\SymfonyDoctrineSearchFunctionsBundle\DependencyInjection;
+namespace CL\CLSymfonyDoctrineSearchFunctionsBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

@@ -1,6 +1,6 @@
 <?php
 
-namespace CL\SymfonyDoctrineSearchFunctionsBundle\DependencyInjection;
+namespace CL\CLSymfonyDoctrineSearchFunctionsBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;
